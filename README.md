@@ -2,7 +2,7 @@
 
 This repository contains my personal notes related to **Software Development, Web Development, and Computer Science fundamentals**.
 The purpose of this repository is to keep all important concepts, explanations, and references in one place for quick revision and learning.
-
+notes
 ## 🚀 Topics Covered
 
 * HTML & CSS Fundamentals
